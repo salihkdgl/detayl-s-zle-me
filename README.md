@@ -1,2 +1,2 @@
-# detayl-s-zle-me
+# detaylı sözleşme 
 sözleşme yapmımı
