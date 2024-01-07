@@ -1,2 +1,2 @@
 # detaylı sözleşme 
-sözleşme yapmımı
+sözleşme yapma kodları
